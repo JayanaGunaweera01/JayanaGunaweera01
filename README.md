@@ -22,7 +22,7 @@ I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a SE intern 
   <div style="flex-grow: 1;">
     <h3>Talking about Personal Stuffs:</h3>
   <div style="align-self: flex-end;">
-    <img style="width: 25%; max-width: 150px;" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
+    <img style="width: 40%; max-width: 150px;" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
   </div>
     <ul>
       <li>🛠 &nbsp; I’m currently working with Nodejs, Express, React, Graphql, Mongodb, Javascript, etc.</li>
