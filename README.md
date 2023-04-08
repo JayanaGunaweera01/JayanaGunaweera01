@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&color=F73F6C&size=80&center=true&vCenter=true&width=1000&height=100&lines=Building+code;one+keystroke+at+a+time;to+create+a;better+world+for+tomorrow.)](https://git.io/typing-svg)
 
-
-
 ## Hey 👋, I'm [Jayana Gunaweera!](https://github.com/JayanaGunaweera01/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayana-gunaweera-83629b1b9/)
