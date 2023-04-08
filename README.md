@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=80&color=F73F6C&center=true&vCenter=true&width=1000&height=100&lines=Code+is+like+poetry;both+require+creativity+,+ passion+,+and+a+keen+attention+to+detail.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=80&color=F73F6C&center=true&vCenter=true&width=1000&height=100&lines=Code+is+like+poetry;both+require;creativity; passion;and+a+keen+attention+to+detail.)](https://git.io/typing-svg)
 
 ## Hey 👋, I'm [Jayana Gunaweera!](https://github.com/JayanaGunaweera01/)
 
