@@ -18,6 +18,9 @@ I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate
 <div style="display: flex; align-items: center;">
   <div style="flex-grow: 1;">
     <h3>Talking about Personal Stuffs:</h3>
+  <div style="align-self: flex-end;">
+    <img style="width: 25%; max-width: 150px;" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
+  </div>
     <ul>
       <li>🛠 &nbsp; I’m currently working with Nodejs, Express, React, Graphql, Mongodb, Javascript, etc.</li>
       <li>🚀 &nbsp; I’m currently learning Full Stack Development.</li>
@@ -27,9 +30,7 @@ I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate
       <li>📫 &nbsp; How to reach me: jayanagunaweera123@gmail.com.</li>
       <li>📝 &nbsp; Checkout my <a href="https://medium.com/@Jayana_Gunaweera">Blog</a>.</li>
     </ul>
-     <div style="align-self: flex-end;">
-    <img style="width: 25%; max-width: 150px;" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
-  </div>
+     
   </div>
 
 </div>
