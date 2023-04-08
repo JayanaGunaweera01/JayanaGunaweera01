@@ -15,8 +15,8 @@
 
 I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="align-self: flex-start;">
+<div style="display: flex; align-items: center;">
+  <div style="flex-grow: 1;">
     <h3>Talking about Personal Stuffs:</h3>
     <ul>
       <li>🛠 &nbsp; I’m currently working with Nodejs, Express, React, Graphql, Mongodb, Javascript, etc.</li>
@@ -28,11 +28,10 @@ I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate
       <li>📝 &nbsp; Checkout my <a href="https://medium.com/@Jayana_Gunaweera">Blog</a>.</li>
     </ul>
   </div>
-  <div style="margin-left: auto;">
+  <div style="align-self: flex-end;">
     <img style="width: 25%; max-width: 150px;" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
   </div>
 </div>
-
 
 
 ### My Absolute Favorites:
