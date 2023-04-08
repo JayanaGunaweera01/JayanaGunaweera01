@@ -28,7 +28,7 @@ I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate
       <li>📝 &nbsp; Checkout my <a href="https://medium.com/@Jayana_Gunaweera">Blog</a>.</li>
     </ul>
   </div>
-  <div style="align-self: flex-end;">
+  <div style="margin-left: auto;">
     <img style="width: 25%; max-width: 150px;" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
   </div>
 </div>
