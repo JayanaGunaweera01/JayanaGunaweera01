@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&color=F73F6C&size=80&center=true&vCenter=true&width=1000&height=100&lines=Building+code%2C+one+keystroke+at+a+time%2C+to+create+a+better+world+for+tomorrow.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&color=F73F6C&size=80&center=true&vCenter=true&width=1000&height=100&lines=Building+code;one+keystroke+at+a+time;to+create+a;better+world+for+tomorrow.)](https://git.io/typing-svg)
 
 
 
