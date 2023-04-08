@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=80&color=F73F6C&center=true&vCenter=true&width=1000&height=100&lines=Hello!+I+am+Jayana Gunaweera;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=80&color=F73F6C&center=true&vCenter=true&width=1000&height=100&lines=Hello!+I+am+Jayana+Gunaweera;)](https://git.io/typing-svg)
 
 ## Hey 👋, I'm [Jayana Gunaweera!](https://github.com/JayanaGunaweera01/)
 
@@ -10,7 +10,7 @@
 
 I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-<img align="right" height="250" width="375" alt="" <img width="45%" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
+<img src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
 
 ### Talking about Personal Stuffs:
 
