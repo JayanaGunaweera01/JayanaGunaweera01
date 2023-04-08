@@ -15,13 +15,10 @@
 
 I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-<div style="display: flex; justify-content: center;">
-  <img style="width: 50%; max-width: 400px;" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
+<div style="display: flex; justify-content: space-between;">
+  <h3 style="align-self: flex-start;">Talking about Personal Stuffs:</h3>
+  <img style="width: 50%; max-width: 400px; align-self: flex-end;" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
 </div>
-
-
-### Talking about Personal Stuffs:
-
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/JayanaGunaweera01).
@@ -29,7 +26,7 @@ I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate
 - 👾 &nbsp; Fun fact: I have contributed to open source projects in 3 different countries and counting!.
 - 📫 &nbsp; How to reach me: jayanagunaweera123@gmail.com.
 - 📝 &nbsp; Checkout my [Blog](https://medium.com/@Jayana_Gunaweera).
-
+- 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
