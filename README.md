@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/jayana-gunaweera-83629b1b9/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
+  <a href="https://medium.com/@Jayana_Gunaweera">
+    <img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white" alt="Medium badge" />
+  </a>
   <a href="https://twitter.com/JGunaweera">
     <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter badge" />
   </a>
