@@ -1,16 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&color=F73F6C&size=80&center=true&vCenter=true&width=1000&height=100&lines=Building+code;one+keystroke+at+a+time;to+create+a;better+world+for+tomorrow.)](https://git.io/typing-svg)
 
+<div>
+  <a href="https://www.linkedin.com/in/jayana-gunaweera-83629b1b9/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+  <a href="https://twitter.com/JGunaweera">
+    <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter badge" />
+  </a>
+</div>
+
 ## Hey 👋, I'm [Jayana Gunaweera!](https://github.com/JayanaGunaweera01/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jayana-gunaweera-83629b1b9/)
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JGunaweera)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=JayanaGunaweera01.JayanaGunaweera01&style=flat-square&color=0088cc)
 
 I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-<div style="text-align: center;">
+<div style="text-align: center; width: 100%;">
   <img width="45%" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
 </div>
 
