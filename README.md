@@ -23,8 +23,12 @@ I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate
     <h3>Talking about Personal Stuffs:</h3>
   <div style="align-self: flex-end;">
     <img style="width: 40%; max-width: 150px;" alt="Github" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" />
-  </div>
+ </div>
     <ul>
+<div align="center">
+<p>Write something nice in my guest book:</p>
+<a href="https://github.com/JayanaGunaweera01/JayanaGunaweera01/issues"><img                      src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+ </div>
       <li>🛠 &nbsp; I’m currently working with Nodejs, Express, React, Graphql, Mongodb, Javascript, etc.</li>
       <li>🚀 &nbsp; I’m currently learning Full Stack Development.</li>
       <li>👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/JayanaGunaweera01">Github</a>.</li>
@@ -126,9 +130,6 @@ I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate
 	</ul>	
 </details>
 	
-<div align="center">
-<p>Write something nice in my guest book:</p>
-<a href="https://github.com/JayanaGunaweera01/JayanaGunaweera01/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
-</div>
+
 
 </div>
