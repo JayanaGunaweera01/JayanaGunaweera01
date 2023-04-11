@@ -99,28 +99,17 @@ I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayanaGunaweera01&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanaGunaweera01&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
-
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
-
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JayanaGunaweera01&hide_border=true" />
 </details>
- 
-<details>	
-	
 <details>	
   <summary><b>🏆 GitHub Trophies</b></summary>
-
-![](https://github-profile-trophy.vercel.app/?username=JayanaGunaweera01&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
-[![trophy](https://github-profile-trophy.vercel.app/?username=JayanaGunaweera01)](https://github.com/ryo-ma/github-profile-trophy)
-
-<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=JayanaGunaweera01&theme=buddhism&no-frame=false&no-bg=true&margin-w=4" />
 </details>
- 
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
