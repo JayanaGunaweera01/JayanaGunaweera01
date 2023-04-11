@@ -108,7 +108,7 @@ I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate
 </details>
 <details>	
   <summary><b>🏆 GitHub Trophies</b></summary>
-<img src="https://github-profile-trophy.vercel.app/?username=JayanaGunaweera01&theme=buddhism&no-frame=false&no-bg=true&margin-w=4" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=JayanaGunaweera01)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 <details>	
   <br />
