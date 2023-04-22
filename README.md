@@ -132,6 +132,9 @@ I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate
 	
 </div>
 
+### Visitors
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 <div align="left">
 <p><b>✍️ Write something nice in my guest book:</b></p>
 <a href="https://github.com/JayanaGunaweera01/JayanaGunaweera01/issues"><img                      src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="left"></a>
