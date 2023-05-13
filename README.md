@@ -28,7 +28,7 @@ I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate
 
  </div>
     <ul>
-      <li>🛠 &nbsp;  I am currently working as Software Engineering Intern @ WSO2 (IAM Team) </li>
+      <li>🛠 &nbsp;  I am currently working as a Software Engineering Intern @ WSO2 (IAM Team) </li>
       <li>🚀 &nbsp; I’m currently learning Full Stack Development and IAM domain in more detail.</li>
       <li>👨🏻‍💻 &nbsp; Most of my projects are available on <a href="https://github.com/JayanaGunaweera01">Github</a>.</li>
       <li>💬 &nbsp; Ask me about anything <a href="https://github.com/JayanaGunaweera01/JayanaGunaweera01/issues">here</a>! I am happy to help.</li>
