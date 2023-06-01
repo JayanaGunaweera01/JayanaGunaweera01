@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&color=F73F6C&size=80&center=true&vCenter=true&width=1000&height=100&lines=Building+code;one+keystroke+at+a+time;to+create+a;better+world+for+tomorrow.)](https://git.io/typing-svg)
 <div>
- <span style="font-size: 20px;">Visitor count</span>
-    <img src="https://profile-counter.glitch.me/JayanaGunaweera01/count.svg" style="margin-top: 10px; margin-left: 5px;" />
-</div>
-<div>
   <a href="https://www.linkedin.com/in/jayana-gunaweera-83629b1b9/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
