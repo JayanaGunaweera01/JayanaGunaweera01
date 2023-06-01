@@ -12,24 +12,24 @@
   </a>
 </div>
 
-## Hey 👋, I'm [Jayana Gunaweera!](https://github.com/JayanaGunaweera01/)
-
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=JayanaGunaweera01.JayanaGunaweera01&style=flat-square&color=0088cc)
-
 <div align="center">
-<!--   <image alt="Lasal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JayanaGunaweera01&show_icons=true&theme=radical&count_private=true"/> -->
+<!--   <image alt="Jayana's' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JayanaGunaweera01&show_icons=true&theme=radical&count_private=true"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayanaGunaweera01&theme=dark"/>
   <br>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayanaGunaweera01&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayanaGunaweera01&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JayanaGunaweera01&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JayanaGunaweera01&theme=github_dark" />
+  <img height="100em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayanaGunaweera01&theme=github_dark" />
+  <img height="100em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayanaGunaweera01&theme=github_dark"  />
+  <img height="100em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JayanaGunaweera01&theme=github_dark"  />
+  <img height="100em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JayanaGunaweera01&theme=github_dark" />
 </div>
 
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/JayanaGunaweera01/count.svg" />
 </p>
+
+## Hey 👋, I'm [Jayana Gunaweera!](https://github.com/JayanaGunaweera01/)
+
+### Glad to see you here! &nbsp; 
 
 I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love creating arduino and robotics related stuffs 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
