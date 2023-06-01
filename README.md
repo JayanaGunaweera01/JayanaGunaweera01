@@ -11,8 +11,6 @@
     <a href="https://twitter.com/JGunaweera">
       <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter badge" style="margin-right: 10px;" />
     </a>
-    <span style="font-size: 20px;">Visitor count</span>
-    <img src="https://profile-counter.glitch.me/JayanaGunaweera01/count.svg" style="margin-top: 10px; margin-left: 5px;" />
   </div>
   <img height="100em" src="http://github-readme-streak-stats.herokuapp.com?user=JayanaGunaweera01&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=JayanaGunaweera01&theme=chartreuse-dark&hide_border=true&show_icons=true" />
@@ -20,7 +18,13 @@
 </div>
 
 ## Hey 👋, I'm [Jayana Gunaweera!](https://github.com/JayanaGunaweera01/)
-### Glad to see you here! &nbsp; 
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+    <span style="font-size: 20px;">Visitor count</span>
+    <img src="https://profile-counter.glitch.me/JayanaGunaweera01/count.svg" style="margin-top: 10px; margin-left: 5px;" />
+  </div>
+  <h3 align="center">Glad to see you here! &nbsp;</h3>
+</div>
 
 I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love creating arduino and robotics related stuffs 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
