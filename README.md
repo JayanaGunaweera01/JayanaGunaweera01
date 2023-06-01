@@ -14,7 +14,7 @@
 
 <div align="center">
 <!--   <image alt="Jayana's' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JayanaGunaweera01&show_icons=true&theme=radical&count_private=true"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayanaGunaweera01&theme=dark"/>
+  <img height="100em" img src="https://github-readme-streak-stats.herokuapp.com/?user=JayanaGunaweera01&theme=dark"/>
   <br>
   <img height="100em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayanaGunaweera01&theme=github_dark" />
   <img height="100em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayanaGunaweera01&theme=github_dark"  />
