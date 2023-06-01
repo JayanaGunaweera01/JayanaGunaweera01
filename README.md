@@ -11,7 +11,8 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/JayanaGunaweera01/count.svg" />
 </p>
-<div>
+
+## Hey 👋, I'm [Jayana Gunaweera!](https://github.com/JayanaGunaweera01/) ![]<div>
   <a href="https://www.linkedin.com/in/jayana-gunaweera-83629b1b9/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
@@ -22,8 +23,6 @@
     <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter badge" />
   </a>
 </div>
-
-## Hey 👋, I'm [Jayana Gunaweera!](https://github.com/JayanaGunaweera01/)
 
 ### Glad to see you here! &nbsp; 
 
