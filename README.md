@@ -1,24 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&color=F73F6C&size=80&center=true&vCenter=true&width=1000&height=100&lines=Building+code;one+keystroke+at+a+time;to+create+a;better+world+for+tomorrow.)](https://git.io/typing-svg)
-
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
-    <a href="https://www.linkedin.com/in/jayana-gunaweera-83629b1b9/">
-      <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn badge" style="margin-right: 10px;" />
-    </a>
-    <a href="https://medium.com/@Jayana_Gunaweera">
-      <img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white" alt="Medium badge" style="margin-right: 10px;" />
-    </a>
-    <a href="https://twitter.com/JGunaweera">
-      <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter badge" style="margin-right: 10px;" />
-    </a>
-    <span style="font-size: 20px;">Visitor count</span>
+<div>
+ <span style="font-size: 20px;">Visitor count</span>
     <img src="https://profile-counter.glitch.me/JayanaGunaweera01/count.svg" style="margin-top: 10px; margin-left: 5px;" />
-  </div>
-  <img height="100em" src="http://github-readme-streak-stats.herokuapp.com?user=JayanaGunaweera01&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=JayanaGunaweera01&theme=chartreuse-dark&hide_border=true&show_icons=true" />
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanaGunaweera01&layout=compact&hide_border=true&theme=chartreuse-dark" />
 </div>
-
+<div>
+  <a href="https://www.linkedin.com/in/jayana-gunaweera-83629b1b9/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
+  <a href="https://medium.com/@Jayana_Gunaweera">
+    <img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white" alt="Medium badge" />
+  </a>
+  <a href="https://twitter.com/JGunaweera">
+    <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter badge" />
+  </a>
+</div>
 ## Hey 👋, I'm [Jayana Gunaweera!](https://github.com/JayanaGunaweera01/)
 ### Glad to see you here! &nbsp; 
 
