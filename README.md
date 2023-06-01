@@ -3,7 +3,6 @@
   <img height="100em" src="http://github-readme-streak-stats.herokuapp.com?user=JayanaGunaweera01&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=JayanaGunaweera01&theme=chartreuse-dark&hide_border=true&show_icons=true" />
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanaGunaweera01&layout=compact&hide_border=true&theme=chartreuse-dark" />
-  <img height="100em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JayanaGunaweera01&theme=github_dark" style="margin-right: 20px" />
 </div>
 <p align="center"> 
   <span style="font-size: 20px;">Visitor count</span><br>
