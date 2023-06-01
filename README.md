@@ -12,7 +12,7 @@
 </div>
 
 ## Hey 👋, I'm [Jayana Gunaweera!](https://github.com/JayanaGunaweera01/)
-### Glad to see you here! &nbsp; ![](https://profile-counter.glitch.me/JayanaGunaweera01/count.svg) profile visits!
+### Glad to see you here! &nbsp; ![](https://profile-counter.glitch.me/JayanaGunaweera01/count.svg) profile visitors!
 
 I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love creating arduino and robotics related stuffs 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
