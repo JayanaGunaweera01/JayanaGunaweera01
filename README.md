@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Product+Sans&color=F73F6C&size=80&center=true&vCenter=true&width=1000&height=100&lines=Building+code;one+keystroke+at+a+time;to+create+a;better+world+for+tomorrow.)](https://git.io/typing-svg)
 <div align="center">
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JayanaGunaweera01&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) ![Jayana's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayanaGunaweera01&theme=chartreuse-dark&hide_border=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayanaGunaweera01&layout=compact&hide_border=true&theme=chartreuse-dark)
+  <img height="100em" src="http://github-readme-streak-stats.herokuapp.com?user=JayanaGunaweera01&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=JayanaGunaweera01&theme=chartreuse-dark&hide_border=true&show_icons=true" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayanaGunaweera01&layout=compact&hide_border=true&theme=chartreuse-dark" />
   <img height="100em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayanaGunaweera01&theme=github_dark" style="margin-right: 20px" />
   <img height="100em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JayanaGunaweera01&theme=github_dark" style="margin-right: 20px" />
 </div>
-
 <p align="center"> 
   <span style="font-size: 20px;">Visitor count</span><br>
   <img src="https://profile-counter.glitch.me/JayanaGunaweera01/count.svg" style="margin-top: 10px;" />
