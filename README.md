@@ -44,6 +44,8 @@ I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
+- 🥇 Below are my Hacktober Fest Badges
+  [![An image of @jayanagunaweera01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayanagunaweera01)](https://holopin.io/@jayanagunaweera01)
 
 ### Dev Passions:
 
@@ -110,7 +112,6 @@ I'm a third year SE undergraduate 🎓 from IIT Sri Lanka 🏛. I'm a passionate
   <summary><b>🏆 GitHub Trophies</b></summary>
 	
 [![trophy](https://github-profile-trophy.vercel.app/?username=JayanaGunaweera01)](https://github.com/ryo-ma/github-profile-trophy)
-[![An image of @jayanagunaweera01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayanagunaweera01)](https://holopin.io/@jayanagunaweera01)
 	
 </details>
 <details>	
